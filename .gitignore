@@ -12,6 +12,7 @@ out/
 *.class
 target
 dependency-reduced-pom.xml
+*.zip
 
 #Local stash for .jars
 lib-files/
